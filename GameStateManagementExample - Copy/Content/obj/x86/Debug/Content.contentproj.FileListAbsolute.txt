@@ -1,0 +1,4 @@
+C:\Users\user\Desktop\Singapore Polytechnic\Year 2(Current)\Semester 2(Current)\CSGD\GameStateManagementExample\Content\obj\x86\Debug\Content.contentprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Singapore Polytechnic\Year 2(Current)\Semester 2(Current)\CSGD\GameStateManagementExample - Copy\Content\obj\x86\Debug\Content.contentprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Singapore Polytechnic\Year 2(Current)\Semester 2(Current)\CSGD\HBL\GameStateManagementExample - Copy\Content\obj\x86\Debug\Content.contentprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Singapore Polytechnic\Year 2(Current)\Semester 2(Current)\CSGD\HBL\GameStateManagementExample - Copy\Content\obj\x86\Debug\LifeOfBalls.xml

@@ -1,0 +1,293 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sections>
+  <WaveBank Name="Wave Bank">Wave Bank
+{
+    Name = Wave Bank;
+    Xbox File = Xbox\Wave Bank.xwb;
+    Windows File = Win\Wave Bank.xwb;
+    Xbox Bank Path Edited = 0;
+    Windows Bank Path Edited = 0;
+    Seek Tables = 1;
+    Compression Preset Name = &lt;none&gt;;
+    Bank Last Revised Low = 3317757338;
+    Bank Last Revised High = 30408057;
+
+    Wave
+    {
+        Name = UI_Clicks01;
+        File = SoundLab\Audio\UI\GenericButtonClicks\UI_Clicks01.wav;
+        Build Settings Last Modified Low = 3573390265;
+        Build Settings Last Modified High = 30408045;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 21508;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3362688256;
+            Last Modified High = 30005739;
+        }
+    }
+
+    Wave
+    {
+        Name = AfternoonAmbientBirdOneShot_04;
+        File = SoundLab\Audio\Nature_Ambience\Nature_Birds\AfternoonAmbientBirdOneShot_04.wav;
+        Build Settings Last Modified Low = 3711972997;
+        Build Settings Last Modified High = 30408045;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 46;
+            Play Region Length = 604164;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3302688256;
+            Last Modified High = 30005739;
+        }
+    }
+
+    Wave
+    {
+        Name = AfternoonAmbientBirdOneShot_05;
+        File = SoundLab\Audio\Nature_Ambience\Nature_Birds\AfternoonAmbientBirdOneShot_05.wav;
+        Build Settings Last Modified Low = 3711982988;
+        Build Settings Last Modified High = 30408045;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 46;
+            Play Region Length = 184320;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3302688256;
+            Last Modified High = 30005739;
+        }
+    }
+
+    Wave
+    {
+        Name = AfternoonAmbientBirdOneShot_06;
+        File = SoundLab\Audio\Nature_Ambience\Nature_Birds\AfternoonAmbientBirdOneShot_06.wav;
+        Build Settings Last Modified Low = 3711982988;
+        Build Settings Last Modified High = 30408045;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 46;
+            Play Region Length = 786436;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3302688256;
+            Last Modified High = 30005739;
+        }
+    }
+
+    Wave
+    {
+        Name = AfternoonAmbientBirdOneShot_07;
+        File = SoundLab\Audio\Nature_Ambience\Nature_Birds\AfternoonAmbientBirdOneShot_07.wav;
+        Build Settings Last Modified Low = 3711992998;
+        Build Settings Last Modified High = 30408045;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 46;
+            Play Region Length = 336896;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3302688256;
+            Last Modified High = 30005739;
+        }
+    }
+
+    Wave
+    {
+        Name = AfternoonAmbientBirdOneShot_08;
+        File = SoundLab\Audio\Nature_Ambience\Nature_Birds\AfternoonAmbientBirdOneShot_08.wav;
+        Build Settings Last Modified Low = 3711992998;
+        Build Settings Last Modified High = 30408045;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 46;
+            Play Region Length = 507904;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3362688256;
+            Last Modified High = 30005739;
+        }
+    }
+
+    Wave
+    {
+        Name = AfternoonAmbientBirdOneShot_09;
+        File = SoundLab\Audio\Nature_Ambience\Nature_Birds\AfternoonAmbientBirdOneShot_09.wav;
+        Build Settings Last Modified Low = 3712003002;
+        Build Settings Last Modified High = 30408045;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 46;
+            Play Region Length = 417792;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3302688256;
+            Last Modified High = 30005739;
+        }
+    }
+
+    Wave
+    {
+        Name = AfternoonAmbientBirdOneShot_10;
+        File = SoundLab\Audio\Nature_Ambience\Nature_Birds\AfternoonAmbientBirdOneShot_10.wav;
+        Build Settings Last Modified Low = 3712003002;
+        Build Settings Last Modified High = 30408045;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 46;
+            Play Region Length = 583680;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3342688256;
+            Last Modified High = 30005739;
+        }
+    }
+
+    Wave
+    {
+        Name = AfternoonAmbientBirdOneShot_01;
+        File = SoundLab\Audio\Nature_Ambience\Nature_Birds\AfternoonAmbientBirdOneShot_01.wav;
+        Build Settings Last Modified Low = 3712003002;
+        Build Settings Last Modified High = 30408045;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 46;
+            Play Region Length = 350208;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3302688256;
+            Last Modified High = 30005739;
+        }
+    }
+
+    Wave
+    {
+        Name = AfternoonAmbientBirdOneShot_02;
+        File = SoundLab\Audio\Nature_Ambience\Nature_Birds\AfternoonAmbientBirdOneShot_02.wav;
+        Build Settings Last Modified Low = 3712013012;
+        Build Settings Last Modified High = 30408045;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 46;
+            Play Region Length = 264196;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3302688256;
+            Last Modified High = 30005739;
+        }
+    }
+
+    Wave
+    {
+        Name = AfternoonAmbientBirdOneShot_03;
+        File = SoundLab\Audio\Nature_Ambience\Nature_Birds\AfternoonAmbientBirdOneShot_03.wav;
+        Build Settings Last Modified Low = 3712013012;
+        Build Settings Last Modified High = 30408045;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 46;
+            Play Region Length = 753664;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3302688256;
+            Last Modified High = 30005739;
+        }
+    }
+
+    Wave
+    {
+        Name = AlexBeroza-Start_Again;
+        File = AlexBeroza-Start_Again.wav;
+        Build Settings Last Modified Low = 3103744179;
+        Build Settings Last Modified High = 30408057;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 6833450;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 4820882;
+            Last Modified High = 30408051;
+        }
+    }
+}
+
+</WaveBank>
+</Sections>
